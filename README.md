@@ -73,5 +73,22 @@ Dirección: Av. Tomás Marsano 3352, Urb. La Capullana, Santiago de Surco - Lima
 Email: ventas@overware.pe  
 Teléfonos: +51 995 222 437, +51 930 288 651, +51 994 062 464
 
+## Redes Sociales
+<p align="center">
+    <a href="https://www.facebook.com/Overware" target="_blank" style="margin: 0 15px;">
+        <i class="fab fa-facebook fa-2x" style="color: #3b5998;"></i>
+    </a>
+    <a href="https://twitter.com/Overware" target="_blank" style="margin: 0 15px;">
+        <i class="fab fa-twitter fa-2x" style="color: #00acee;"></i>
+    </a>
+    <a href="https://www.linkedin.com/company/overware" target="_blank" style="margin: 0 15px;">
+        <i class="fab fa-linkedin fa-2x" style="color: #0077b5;"></i>
+    </a>
+    <a href="https://www.instagram.com/overware" target="_blank" style="margin: 0 15px;">
+        <i class="fab fa-instagram fa-2x" style="color: #e4405f;"></i>
+    </a>
+</p>
+
 ---
+
 **Overware Technology S.A.C.** - Su aliado estratégico en la transformación digital.
