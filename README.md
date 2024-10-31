@@ -1,6 +1,54 @@
-# Data de la Empresa
+# Overware - Datos Financieros y Operativos
 
-Este archivo contiene una tabla con los datos financieros y operativos mensuales de la empresa, que incluyen el valor mensual, gastos en distintas áreas y la cantidad de empleados.
+Este archivo contiene una tabla con los datos financieros y operativos mensuales de Overware, que incluyen el valor mensual, gastos en distintas áreas y la cantidad de empleados.
+
+Overware ayuda a organizaciones públicas y privadas a que su proceso de transformación digital sea ágil y seguro.
+
+## Sobre Nosotros
+Nuestro principal activo es nuestro personal. Entregamos productos y servicios para brindar la mejor solución de acuerdo a las necesidades de nuestros clientes, respaldados por las marcas líderes del mercado.
+
+Nuestro compromiso es convertirnos en un aliado estratégico de nuestros clientes, enfocándonos en sumar valor a los objetivos organizacionales.
+
+## Servicios
+
+### Seguridad de la Información y Ciberseguridad
+- Firewall de Próxima Generación (NGFW)
+- Filtrado de Correo Electrónico (Antispam)
+- Gestión de Vulnerabilidades (Ethical Hacking Automatizado)
+- Servicio de Ethical Hacking
+- Protección de Endpoint - Antivirus, antimalware
+- Prevención de Fuga de Información (DLP)
+- Gestión, monitoreo y seguridad de TI
+
+### Redes y Telecomunicaciones
+- Switches core y de acceso
+- Access point
+- Gestión y optimización de ancho de banda
+- Redes de cableado estructurado en cobre y fibra óptica
+- Arquitectura de DC (MicroDC, Rack, UPS y PDU)
+- Telefonía IP
+- Sistemas de Videovigilancia
+
+### Infraestructura On Premise
+- Desarrollo de normas y políticas relacionadas con la seguridad y los respaldos
+- Asesoría en soluciones de respaldo, almacenamiento y protección de datos
+- Valoración en soluciones de virtualización e hiperconvergencia
+- Asesoramiento en soluciones NAS / SAN / BLADES / SERVIDORES
+- Recuperación ante desastres y plan de continuidad de negocio
+
+### Consultoría de Proyectos
+- Implementación de las mejores prácticas operativas de TI
+- Planeamiento y Procesos
+- Gestión de Infraestructura
+- Gestión de Proyectos
+
+### Outsourcing de TI
+La subcontratación de operaciones de TI con Overware se traduce en ventajas que incluyen escalabilidad, recuperación de crisis, acceso más fácil a especialistas, costos bajos y capacidad de enfoque de recursos en el core business de nuestros socios de negocio.
+
+### Infraestructura Cloud
+Soluciones SaaS para videoconferencia, suite de colaboración y monitoreo de infraestructura LAN / WAN.
+
+## Tabla de Datos Financieros
 
 | Valor Mensual | Gasto Administración | Gasto Desarrollo | Gasto Marketing | Gasto Capacitación | Gasto Equipos | Personas Empleadas |
 |---------------|----------------------|------------------|-----------------|--------------------|---------------|---------------------|
@@ -17,4 +65,13 @@ Este archivo contiene una tabla con los datos financieros y operativos mensuales
 | 1,603,102     | 110,594              | 101,913         | 229,161         | 69,128             | 310,531       | 150                 |
 | 1,532,314     | 91,791               | 100,672         | 249,745         | 80,912             | 381,313       | 151                 |
 
-> **Nota:** Los datos representan valores mensuales de distintos aspectos de la empresa, desde gastos administrativos hasta la cantidad de empleados.
+> **Nota:** Estos datos representan valores mensuales de diferentes aspectos de la empresa, desde gastos administrativos hasta la cantidad de empleados.
+
+## Contacto
+**Sede Principal**  
+Dirección: Av. Tomás Marsano 3352, Urb. La Capullana, Santiago de Surco - Lima  
+Email: ventas@overware.pe  
+Teléfonos: +51 995 222 437, +51 930 288 651, +51 994 062 464
+
+---
+**Overware Technology S.A.C.** - Su aliado estratégico en la transformación digital.
